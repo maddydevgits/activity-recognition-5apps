@@ -31,6 +31,9 @@ Official Repo of my project created for one of my client.
 # Version of Python
 1. Python 3.9 
 
+# Download Weights from here
+https://www.dropbox.com/s/ji3zsjo42odusx3/yolov3.weights?dl=0
+
 # How to execute
 1. Clone the repo
 2. Install the above packages
